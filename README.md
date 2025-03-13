@@ -32,16 +32,28 @@ There are different types of cable cars, various models, but they all have the s
 
 ## Cabin 
 <p>
-  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00001.jpeg" width="300"/>
-  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00002.jpeg" width="300"/>
-  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00003.jpeg" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/1.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/2.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/3.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/4.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/5.png" width="300"/>
+ <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/6.png" width="300"/>
 </p>
 
 
 ## Station
-
-aici pun imagini
+<p>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/7.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/8.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/9.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/10.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/11.png" width="300"/>
+</p>
 
 ## Results
+<p>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/12.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/13.png" width="300"/>
+</p>
 
 ## Conclusions
