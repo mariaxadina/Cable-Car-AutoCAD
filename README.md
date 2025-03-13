@@ -31,7 +31,12 @@ There are different types of cable cars, various models, but they all have the s
 - Rollers: These allow the cable car to run on the carrying cables. The rollers have a locking and braking mechanism in case the hauling cable or counter-cable detaches from the roller assembly.
 
 ## Cabin 
-aici pun imagini
+<p>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00001.jpeg" width="300"/>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00002.jpeg" width="300"/>
+  <img src="https://github.com/mariaxadina/Robotica/blob/main/Tema_1/image00003.jpeg" width="300"/>
+</p>
+
 
 ## Station
 
