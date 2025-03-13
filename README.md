@@ -31,10 +31,13 @@ There are different types of cable cars, various models, but they all have the s
 - Rollers: These allow the cable car to run on the carrying cables. The rollers have a locking and braking mechanism in case the hauling cable or counter-cable detaches from the roller assembly.
 
 ## Cabin 
+The cable car cabin was designed with seats and space for ski equipment which provides a comfortable and functional transportation option. The cabin is equipped with seating for passengers, offering a secure and relaxed ride. 
+Additionally, it includes designated areas for storing ski equipment, ensuring passengers can easily transport their skis, snowboards, and other gear.
+
 <p>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/1.png" width="300"/>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/2.png" width="300"/>
-  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/3.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/3.png" width="500"/>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/4.png" width="300"/>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/5.png" width="300"/>
  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/6.png" width="300"/>
@@ -42,8 +45,10 @@ There are different types of cable cars, various models, but they all have the s
 
 
 ## Station
+he rolling system of the station, where cable cars take turns, is an essential component of the cable car's operation. It consists of a series of rollers and guide mechanisms that enable the cable car to transition smoothly from one section of the cable to another, especially at the station where the cable cars either slow down or change direction.
+
 <p>
-  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/7.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/7.png" width="500"/>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/8.png" width="300"/>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/9.png" width="300"/>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/10.png" width="300"/>
@@ -51,9 +56,15 @@ There are different types of cable cars, various models, but they all have the s
 </p>
 
 ## Results
+The final design of the cable car system incorporates all the essential components that ensure functionality, safety, and efficiency. The design focuses on maximizing passenger comfort while integrating technical elements such as the rolling system, cable car cabins, and station infrastructure.
+
 <p>
-  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/12.png" width="300"/>
+  <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/12.png" width="600"/>
   <img src="https://github.com/mariaxadina/Cable-Car-AutoCAD/blob/main/images/13.png" width="300"/>
 </p>
 
 ## Conclusions
+Thanks to this project, I have developed several design skills using AutoCAD 2023, skills that will be useful to me in the future. I have improved my ability to visualize objects both in plan and in space, changing my perspective.
+
+Additionally, I have learned about the operating system of cable cars, objects that are significant to me, as well as the components they consist of, and the materials used.
+I am glad I had the opportunity to explore this application and work on a complex project under the guidance of my professor.
