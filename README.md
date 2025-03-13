@@ -3,7 +3,11 @@
  ## Table of Contents
 1. [Application](#application)
 2. [Introduction](#introduction)
-3. 
+3. [Components](#components)
+4. [Cabin](#cabin)
+5. [Station](#station)
+6. [Results](#Results)
+7. [Conclusions](#Conclusions)
 
 ## Application
 
@@ -18,3 +22,21 @@ Cable cars can be classified into:
 - Chairlifts – Open-air seating transport, commonly used for ski resorts.
 
  **Usage:** Cable cars are ideal for overcoming steep slopes and providing efficient transport in mountainous regions or urban areas with difficult terrain.
+
+## Components
+There are different types of cable cars, various models, but they all have the same basic components, well-designed, and the same gripping and operating mechanism. Cable cars consist of:
+
+- Cabin: The part that houses passengers during transport. It comes in different sizes depending on the installation requirements. It can vary from a minimum of 6 people to 8 people.
+- Running assembly: It consists of rollers, brakes, and other subsystems that run on one or two carrying cables.
+- Rollers: These allow the cable car to run on the carrying cables. The rollers have a locking and braking mechanism in case the hauling cable or counter-cable detaches from the roller assembly.
+
+## Cabin 
+aici pun imagini
+
+## Station
+
+aici pun imagini
+
+## Results
+
+## Conclusions
